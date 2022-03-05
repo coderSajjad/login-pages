@@ -1,0 +1,120 @@
+ body{
+     margin: 0;
+     padding: 0;
+     background-image: url(../assets/pastel-blue\ .png);
+     background-size: cover;
+     position: fixed;
+ }
+
+ .main{
+     width: 340px;
+     height: 300px;
+     background-color: #ddd;
+     margin-left: 420px;
+     margin-top: 120px;
+     border-radius: 20px;
+     box-shadow:  5px 10px  8px #888888;
+       
+ }
+
+ .main-icon{
+     font-size: 50px;
+     padding: 25px;
+     background-color: rgb(15, 15, 83);
+     color: white;
+     border-radius: 100%;
+     margin-left: 120px;
+     margin-top: -39px;
+ }
+
+  .text1{
+      width:100%;
+      overflow: hidden;
+      font-size: 20px;
+      margin-top: 32px;
+      margin-left: 30px;
+       
+    
+  }
+
+  .text1 input{
+      border: none;
+      outline: none;
+      padding: 16px;
+      width: 200px;
+      background-color: #3A5173;
+      color: white;
+       
+      
+  }
+  .text2{
+      width:100%;
+      overflow: hidden;
+      font-size: 20px;
+      margin-top: 22px;
+      margin-left: 30px;
+   
+  }
+
+  .text2 input{
+      border: none;
+      outline: none;
+      padding: 15px 16px;
+      width: 200px;
+      background-color: #3A5173;
+      color: white;
+    
+  }
+
+  .text1 i{
+      background-color:#00254C ;
+      color: white;
+      padding: 14px;
+      float: left;
+  }
+
+  .text2 i{
+    background-color:#00254C ;
+    color: white;
+     font-size: 16px;
+     padding: 14px;
+    float: left; 
+  }
+
+ p{
+     margin-left: 25px;
+     margin-top: 30px;
+     font-size: 16px;
+      color: rgb(15, 15, 83) ; 
+ }
+ p checkbox{
+     color:  #00254C;
+ }
+
+ a{
+     margin-left: 47px;
+     text-decoration: none;
+     font-size: 16px;
+     font-style: italic;
+
+     color:  #3A5173;
+ }
+
+ .btn{
+     background-color: #ddd;
+     color: rgb(255, 255, 255);
+     font-size: 19px;
+     display: inline;
+     text-align: center;
+     border: none;
+     margin-top: 25px;
+     width: 270px;
+     padding: 10px;
+     margin-left: 30px;
+     border-radius: 20px;
+     box-shadow:  5px  10px 8px   #888888  insert  ;
+     opacity: .7;
+ }
+
+  
+ 
